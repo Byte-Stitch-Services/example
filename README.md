@@ -7,4 +7,6 @@ Grocery Shopping
 - Bread
 - Flour
 - Baking Powder
-- Honey 
+- Honey
+- Peanut Butter
+- Oatmeal 
