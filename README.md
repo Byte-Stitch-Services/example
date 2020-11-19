@@ -3,10 +3,9 @@ README
 Grocery Shopping
 
 - Milk
-- Tea
+- Tea 
 - Bread
 - Flour
 - Baking Powder
 - Honey
 - Peanut Butter
-- Oatmeal 
