@@ -3,7 +3,7 @@ README
 Grocery Shopping
 
 - Milk
-- Tea 
+- Egg 
 - Bread
 - Flour
 - Baking Powder
